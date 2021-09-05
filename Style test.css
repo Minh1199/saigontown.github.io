@@ -1,0 +1,52 @@
+li{
+	color: green;
+}
+h2{
+	color: red;
+}
+.Header{
+	width: 100%;
+	margin: 0px auto;
+	padding: 13px;
+	background-color: 0,168,243;
+	color: black;
+	text-align: center;
+	font-size: 24px;
+	position: sticky;
+}
+
+.Menu{
+	display: inline-block;
+	border-color: white;
+	background-color: lightblue;
+	width: 100%;
+	height: 10%;
+}
+.Menu li{
+	display: inline-block;
+	float:none;
+	background-color: 0,168,243;
+	text-decoration: none;
+	color: black;
+	
+}
+body{  }
+.Container{
+	padding-top: 0px;
+	width: 100%px;
+	height: 100%;
+}
+
+.ResponsiveIframe
+{
+	width: 100%;
+	height: 0%;
+	padding-bottom: 56.25%;
+	position: relative;
+}
+.ResponsiveIframe iframe
+{
+	position: absolute;
+	width: 100%;
+	height:100%;
+}
